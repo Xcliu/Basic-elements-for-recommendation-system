@@ -1,1 +1,1 @@
-# Basic-elements-for-recommendation-system
+*  This repository is used to record the snippets of the recommendation system 
